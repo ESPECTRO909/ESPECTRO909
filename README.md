@@ -1,4 +1,4 @@
-## Hola, mi nombre es Sinuhe Alvarez 👋
+## Hola, mi nombre es Sinue Alvarez 👋
 -----------------------------------------------
 
 
