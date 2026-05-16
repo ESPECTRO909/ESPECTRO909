@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sinuhe Alvarez 👋
+# ¡Hola! Soy Sinuhe Alvarez 
 
 **Desarrollador Backend | Estudiante de Ingeniería en Computación**
 
@@ -32,10 +32,15 @@ Soy un estudiante apasionado por el desarrollo de software y el diseño de arqui
 
 ## Proyectos Destacados
 
-* **Sistema de Almacenamiento Local (Clon de Drive):** Plataforma para el manejo y almacenamiento de archivos pesados en red local. Arquitectura diseñada con Spring Boot, utilizando persistencia políglota con SQL y MongoDB.
-* **Sistema Universitario de Reportes:** Aplicación integral para la gestión de quejas con sistema de roles de usuario. Backend desarrollado con Spring Boot (APIs RESTful) y frontend consumido a través de React.
+* **SUD (Sistema Universitario de Denuncias):** Plataforma web desarrollada para centralizar, estandarizar y gestionar el ciclo de vida de las denuncias (como violencia, acoso o discriminación) dentro de la Universidad Michoacana de San Nicolás de Hidalgo.El sistema garantiza la trazabilidad y confidencialidad del proceso mediante folios únicos y comunicación segura.
+  * **Características clave:**
+    * **Arquitectura y Seguridad:** Backend construido con arquitectura por capas, validación de datos, protección de contraseñas encriptadas y control de acceso basado en tres roles (Estudiante, Secretario, Administrador).
+    * **Gestión de Estados:** Seguimiento del flujo de la denuncia (Pendiente, En Proceso, Resuelta, Rechazada).
+    * **Automatización y Notificaciones:** Envío automático de correos electrónicos con actualizaciones de estado y avisos de citas, además de automatización de tareas programadas.
+    * **Generación de Reportes:** Creación dinámica de documentos PDF para la impresión física de las denuncias.
+  * **Stack Tecnológico Backend:** Java 21, Spring Boot, Spring Security, Spring Data JPA, Spring Mail, Spring Quartz (Jobs), iText7-core y MySQL.
 
-## 🎯 Mis Intereses
+## Mis Intereses
 * Desarrollo Backend con Java y Spring Boot
 * Arquitectura de Software
 * Bases de Datos (Relacionales y NoSQL)
