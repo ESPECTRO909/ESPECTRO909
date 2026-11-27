@@ -14,6 +14,8 @@ Soy un estudiante apasionado por el desarrollo de software y el diseño de arqui
 
 **Lenguajes:**
 * Java
+* C
+* Python
 * SQL
 * HTML / CSS / JavaScript
 
@@ -21,11 +23,13 @@ Soy un estudiante apasionado por el desarrollo de software y el diseño de arqui
 * Spring Boot
 * Spring Framework
 * JPA / Hibernate
+* Astro
 * React
 
 **Entornos, Herramientas y Plataformas:**
 * Git / GitHub
 * MySQL / PostgreSQL / MongoDB
+* Postman
 * Docker
 * Visual Studio Code
 * Maven / Gradle
