@@ -54,5 +54,6 @@ Soy un estudiante apasionado por el desarrollo de software y el diseño de arqui
 * Contribuir a soluciones empresariales escalables.
 
 ## Conéctate Conmigo
+* **Mi portafolio** https://sinuedev.vercel.app/
 * **LinkedIn:** www.linkedin.com/in/sinue-alvarez
 * **Correo electrónico:** sinuefernando73@gmail.com
